@@ -3,7 +3,7 @@
 ### Install
 
 ```
-npm install -g email-verify
+npm install https://github.com/AlgoSolu/email-verify
 ```
 
 #### Important Note
